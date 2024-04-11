@@ -34,6 +34,14 @@
         "No": {},
         "Yes": { "docked.css": ["SP"] }
       }
+    },
+    "Show Footer Categories": {
+      "default": "No",
+      "type": "checkbox",
+      "values": {
+        "No": {},
+        "Yes": {"show-footer-categories": ["SP"]}
+      }
     }
   }
 }
